@@ -4,7 +4,7 @@ int main()
 {
 	int n;
 	cin >> n;
-	if ((n == 0) || (n < 0))
+	if (n <= 0))
 		cout << "Out of range";
 	for(int N = 0; N < n; N++)
 		for(int M = 0; M < n; M++)
