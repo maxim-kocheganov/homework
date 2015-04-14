@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	string name; // ~ char name[]
+	string name;
 	string fam;
 	string third;
 	cin >> name;
