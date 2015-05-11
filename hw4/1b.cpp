@@ -14,5 +14,5 @@ int main()
 			break;
 	}
 	cout << "Words: " << arr.size() << endl;
-	return 0;
+	return 0; 
 }
