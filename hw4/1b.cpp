@@ -13,6 +13,6 @@ int main()
 		else
 			break;
 	}
-	cout << "Words: " << arr.size();
+	cout << "Words: " << arr.size() << endl;
 	return 0;
 }
