@@ -22,7 +22,6 @@ int main()
 				tax += (((tvarp - 5000 - 10000) % 20000) * 15) / 100;
 			if (tvarp - 5000 - 10000 - 20000 > 0)
 				tax += (tvarp - 5000 - 10000 - 20000) / 5;
-
 			cout << "tax:   " << tax << endl;
 		}
 		else
