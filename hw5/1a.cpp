@@ -31,7 +31,7 @@ int main()
 			break;
 		}
 	}
-	_sleep(10000);
+	cin.ignore();
 	return 0;
 }
 int inputNum()
